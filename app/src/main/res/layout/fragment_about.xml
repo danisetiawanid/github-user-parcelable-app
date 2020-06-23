@@ -34,7 +34,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="10dp"
-                android:text="Muhamad Dani Setiawan Twe"
+                android:text="Muhamad Dani Setiawan"
                 android:textColor="#fff"
                 android:textSize="21sp"
                 android:textStyle="bold" />
